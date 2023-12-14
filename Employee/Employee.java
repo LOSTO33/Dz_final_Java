@@ -1,6 +1,5 @@
+package Employee;
 import java.util.Objects;
-
-import lesson6.Person;
 
 public class Employee {
 
